@@ -4,6 +4,8 @@
 
 # Refrigerator Simulation Program
 
+## Citing
+This program was developed with the help of Copilot AI.
 ## Description
 This program simulates the behavior of a refrigerator using object-oriented programming principles in Java. It models a `Refrigerator` class with various attributes and methods to represent and manipulate the state of a refrigerator.
 ## Features
